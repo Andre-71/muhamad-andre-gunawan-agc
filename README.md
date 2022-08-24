@@ -1,1 +1,3 @@
-Nama: Muhamad Andre Gunawan
+# Project Pertama
+## Creator
+Muhamad Andre Gunawan
